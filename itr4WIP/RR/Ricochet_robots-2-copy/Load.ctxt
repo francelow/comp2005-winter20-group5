@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Load
+comment0.text=\n\ Load\ class\ that\ lets\ you\ load\ the\ progress\ of\ a\ saved\ game\n\n\ @author\ (Mohammad\ Hasan\ 201858685)\n\ \n
+comment1.params=
+comment1.target=Load()
+comment2.params=aevt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

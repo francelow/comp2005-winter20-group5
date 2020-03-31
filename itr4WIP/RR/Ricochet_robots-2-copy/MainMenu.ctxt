@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment0.text=\n\ The\ Main\ Menu\ for\ the\ Game\ that\ lets\ users\ choose\ how\ they\ want\ to\ play\n\ the\ game\n\ \n\ @author\ (Mohammad\ Hasan\ 201858685)\n\n
+comment1.params=
+comment1.target=MainMenu()
+comment2.params=
+comment2.target=void\ addButtons()
+comment3.params=
+comment3.target=boolean\ isColorVision()
+comment4.params=aevt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=javax.swing.ImageIcon\ setPlayerImage()
+numComments=6

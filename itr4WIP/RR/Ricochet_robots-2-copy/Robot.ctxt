@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Robot
+comment0.text=\n\ Class\ that\ represents\ a\ robot\ with\ an\ x\ and\ y\ coordinate\n\n\ @author\ (Mohammad\ Hasan\ 201858685)\n\ \n
+comment1.params=icon
+comment1.target=Robot(javax.swing.ImageIcon)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=javax.swing.ImageIcon\ getIcon()
+comment5.params=
+comment5.target=void\ changeSelected()
+comment6.params=
+comment6.target=boolean\ isSelected()
+comment7.params=x\ y
+comment7.target=void\ move(int,\ int)
+comment8.params=aevt
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=
+comment9.target=java.lang.String\ robotMoved()
+numComments=10

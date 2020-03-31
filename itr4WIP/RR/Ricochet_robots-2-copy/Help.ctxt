@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Help
+comment0.text=\n\ Help\ class\ that\ gives\ information\ on\ how\ to\ play\ the\ game\n\n\ @author\ (Mohammad\ Hasan\ 201858685)\n\ \n
+comment1.params=
+comment1.target=Help()
+comment2.params=
+comment2.target=void\ createHelp()
+comment3.params=aevt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4
